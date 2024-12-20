@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Protect the Survivors</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tela_login">TelaLogin</string>
+    <string name="title_activity_tela_splash">TelaSplash</string>
+    <string name="title_activity_tela_menu">TelaMenu</string>
+    <string name="title_activity_splash">Protect the Survivors</string>
+    <string name="str_jogar">Jogar</string>
+    <string name="str_ranking">Ranking</string>
+    <string name="str_init">Iniciando Reconhecedor</string>
+    <string name="str_reconhecido">Comando reconhecido</string>
+    <string name="str_erro">Erro (Nao reconhecido)</string>
+    <string name="str_ouvindo">Ouvindo</string>
+    <string name="str_comds">Diga Comandos para ver os comandos</string>
+    <string name="str_com">Diga \"Comandos\" para lista-los</string>
+    <string name="str_status"></string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+
+</resources>
